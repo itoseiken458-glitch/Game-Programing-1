@@ -414,10 +414,10 @@
     <ClCompile Include="Internal2.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="Practice3a external.cpp">
+    <ClCompile Include="Practice3a_external.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="Practice3b external.cpp">
+    <ClCompile Include="Practice3b_external.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
@@ -425,7 +425,7 @@
     <ClInclude Include="Include1.h">
       <Filter>ソース ファイル</Filter>
     </ClInclude>
-    <ClInclude Include="Practice3 external.h">
+    <ClInclude Include="Practice3_external.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
