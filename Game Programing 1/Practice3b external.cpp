@@ -11,3 +11,4 @@ double Circle_area(double radius) {
 double Trapezoid_area(double upper_bottom,double lower_bottom,double height) {
 	return (upper_bottom + lower_bottom) * height / 2;
 }
+//test
