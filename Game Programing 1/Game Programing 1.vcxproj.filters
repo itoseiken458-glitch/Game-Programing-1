@@ -425,5 +425,8 @@
     <ClInclude Include="Include1.h">
       <Filter>ソース ファイル</Filter>
     </ClInclude>
+    <ClInclude Include="Practice3 external.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
